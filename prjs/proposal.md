@@ -17,32 +17,23 @@ image:
 # 顶点课程报告提纲
 
 * 毕业论文中文题目：传统媒体的数字转型: 基於中国报业首届盈利模式大赛作品比较分析评析南方报业集团的特色
-* 毕业论文英文题目：Digital transformation of traditional media: comparative analysis and analysis of the characteristics of nanfang newspaper group based on the works of the first profit model competition of Chinese newspapers
+* 毕业论文英文题目：Digital Transformation of Traditional Media:A Comparative Analysis of the Characteristics of Nanfang Newspaper Group Based on the Works of the First Profit Model Competition of Chinese Newspapers
 * 姓名: 黎婵
 * 序号: DT南方
 <!--more-->
 
 ## 设计/论文题亮点
 
-* [[M]]使用的方法数据：针对中国报业首届盈利模式大赛作品做数据建模分析南方都市报的盈利模式
+* [[M]]使用的方法数据：针对31份中国报业首届盈利模式大赛作品做机器学习的数据主题建模分析南方都市报的盈利模式
 * [[A]]产出的专业建构物：中国报业首届盈利模式大赛作品数据分析图表丶南方都市报盈利模式图表
-* [[C]]立基的概念出发点：网络效应丶平台生态系丶竞争及策略
+* [[C]]立基的概念出发点：数字转型、平台生态系丶竞争及策略
 
 ## 一丶选题意义
 ### 1丶理论意义
-
-(一句话总结[[C]]立基的概念出发点如何能因本研究而有所新应用或新知识的产出，特别是基於[[M]]使用的方法数据)
+基于机器学习的主题建模，对31份中国报业首届盈利模式大赛作品做比较分析并得出南方都市集团的特色及盈利模式，探讨其数字转型的可行性，为传统媒体的现代化转型提供理论上的参考与指导。
 
 ### 2丶现实意义
-
-(一句话总结[[A]]产出的专业建构物如何能因本研究而有所新的现实意义，特别是基於[[M]]使用的方法数据)
-
-
-> 说明：意义主要是指外部重要性(external centrality)，假定真的做完了, 对谁有什麽样的启发及启示？对公司省成本？对公司增加营收？对领导增加全局观的决策方法？对学者及政策制定者总结最新知识？
-
-> 若师生未能有共识，建议以学生先选取网新专业之核心课及方向课2门课为主的内容及项目为基底来思考课题方向
-
-
+产出的数据分析图表及盈利分析图表将用于论证南方都市转型的可行性，并通过回顾分析南方都市集团为实现数字转型、为打造智库型媒体所做的行动探讨传统媒体在大数据分析上具备的优势，为传统媒体的现代化转型、实现盈利提供借鉴。
 
 ## 二丶中英文摘要与关键词
 
