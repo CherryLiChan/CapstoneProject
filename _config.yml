@@ -17,7 +17,7 @@ lang: zh-CN
 title: LiChan's CapstoneProject
 email:
 description: "顶点课程/毕业设计/毕业论文/模板"
-baseurl: "CapstoneProject/"  # the optional subpath of your site, e.g. "/blog"
+baseurl: "/CapstoneProject"  # the optional subpath of your site, e.g. "/blog"
 url: "https://CherryLiChan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author: 
   name: "Student of Nanfang College of Sun Yat-sen University"
